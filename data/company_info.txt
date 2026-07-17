@@ -1,0 +1,26 @@
+Company Name: TechNova Solutions
+
+About Us:
+TechNova Solutions was founded in 2015 and specializes in cloud-based
+inventory management software for small and medium businesses.
+
+Working Hours:
+Our support team is available Monday to Friday, 9 AM to 6 PM (PKT).
+
+Refund Policy:
+Customers can request a full refund within 14 days of purchase if they
+are not satisfied with the product. Refunds are processed within 5-7
+business days.
+
+Products:
+1. TechNova Inventory Pro - full inventory tracking with barcode scanning.
+2. TechNova Lite - a free tier for businesses with less than 100 SKUs.
+3. TechNova API - allows developers to integrate inventory data into
+   their own applications.
+
+Contact:
+support@technova-example.com
+Phone: +92-300-0000000
+
+Replace this file with your own company documents (txt, pdf, or docx).
+You can add as many files as you want inside the /data folder.
